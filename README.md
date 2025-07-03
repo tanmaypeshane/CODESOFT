@@ -6,3 +6,4 @@ In this repository I've added all projects given in  my codesoft internship prog
 4. Make sure that please link the css file and images to its absolute path before judging the actual project.
 5. we are sorry for this inconvience occured but I tried our best to resolve this.
 6. If still you are failed to open our project, I've provided screenshots of my project.
+7. If you fail to link the file you can check the screenshot of the file I've uploaded.
