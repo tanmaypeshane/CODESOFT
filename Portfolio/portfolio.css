@@ -6,7 +6,7 @@
 }
 
 .main{
-    background: url("D:/codesoft/Portfolio/portfoliobg.jpg");
+    background: url("portfoliobg.jpg");
     width: 100%;
     height:100vh;
     display: flex;
